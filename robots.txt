@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://codysaffle.github.io/sitemap.xml
